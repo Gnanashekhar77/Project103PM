@@ -18,5 +18,15 @@ public class Sample {
 
 		System.out.println("3");
 	}
+	
+	private void Pune() {
+
+		System.out.println("Pune");
+	}
+	
+	private void Kerala() {
+
+		System.out.println("Kerala");
+	}
 
 }
