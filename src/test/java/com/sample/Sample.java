@@ -19,4 +19,8 @@ public class Sample {
 		System.out.println("3");
 	}
 
+	private void usa() {
+
+		System.out.println("London");
+	}
 }
