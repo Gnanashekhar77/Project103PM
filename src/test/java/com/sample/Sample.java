@@ -29,4 +29,13 @@ public class Sample {
 		System.out.println("Kerala");
 	}
 
+	private void usa() {
+
+		System.out.println("London");
+	}
+	
+	private void Tamilnadu() {
+
+		System.out.println("Tamil");
+	}
 }
